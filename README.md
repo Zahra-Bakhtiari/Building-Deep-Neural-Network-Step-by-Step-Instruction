@@ -1,4 +1,4 @@
-# Building-your-Deep-Neural-Network-Step-by-Step
+**[Building your Deep Neural Network Step by Step](https://github.com/Zahra-Bakhtiari/Building-your-Deep-Neural-Network-Step-by-Step/blob/main/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)**
 
 This repository covers building a deep neural network with as many layers as you want! The model highlights includes:
 
